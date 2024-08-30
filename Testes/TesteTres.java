@@ -11,4 +11,5 @@ public class TesteTres {
   // a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
   // b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
   
+  
 }
