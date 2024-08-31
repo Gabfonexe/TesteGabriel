@@ -5,7 +5,7 @@ import locale
 locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
 def buscar_dados():
-    caminho_arquivo = Path('C:/Users/bielf/OneDrive/Documentos/testando/Teste/dados.json')
+    caminho_arquivo = Path('./dados.json')
     if caminho_arquivo.exists():
         with caminho_arquivo.open('r', encoding='utf-8') as arquivo:
             dados = json.load(arquivo)
