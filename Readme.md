@@ -1,6 +1,6 @@
 # Teste 📄
 
-### Para realizar o teste eu usei seguintes tecnologias:
+### Para realizar o teste eu usei as seguintes tecnologias:
 
 
 
